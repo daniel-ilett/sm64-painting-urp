@@ -1,6 +1,3 @@
-# sm64-painting-urp
-A shader based on Super Mario 64's painting ripple effect.
-
 # Super Mario 64 Painting Effect in Unity Shader Graph
 
 A shader based on Super Mario 64's painting ripple effect when Mario jumps through a painting.
