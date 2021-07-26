@@ -10,7 +10,7 @@ When Mario jumps through a painting in Super Mario 64, a ripple appears at the p
 
 ## Software
 
-This project was created using Unity 2020.2.1f1 and Universal Render Pipeline 10.2.2.
+This project was created using Unity 2020.3.2f1 and Universal Render Pipeline 10.4.0.
 
 ## Authors
 
